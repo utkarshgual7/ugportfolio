@@ -1,0 +1,42 @@
+[ {
+  "title": "Conectvice - Online Appointment Meeting App",
+  "imageSrc": "projects/project.png",
+  "description": "Connectvice is a dynamic and user-friendly platform that facilitates seamless virtual meetings and collaborations.Connectvice offers high-quality video conferencing, real-time messaging.",
+  "skills": ["MERN"],
+  "demo": "https://connectvice.vercel.app/",
+  "source": "https://github.com/utkarshgual7/mvwebrtc"
+},
+{
+  "title": "UPCHAAR - A.I. Healthcare Solution App",
+  "imageSrc": "projects/project.png",
+  "description": "Developed an innovative virtual healthcare platform aimed at making healthcare more affordable and accessible. The platform includes AI Chatbot and Scanner,this feature provides preliminary diagnoses based on user symptoms and allows patients to upload medical scans for virtual, doctor-like analysis—all at no cost.",
+  "skills": ["MERN","LANGCHAN","FLASK"],
+  "demo": "https://utkarshgual.netlify.app//",
+  "source": "https://github.com/utkarshgual7/aihealthcare"
+},
+    {
+      "title": "Credit Card Management System",
+      "imageSrc": "projects/creditproject.jpg",
+      "description": "Credit card management system designed using Python with tkinter and phpMyAdmin SQL. This holds all your card information on the server and retrieves accordingly.Functions like generate pin and check remaining balance.",
+      "skills": ["Python", "tkinter", "SQL","Excel"],
+      "demo": "https://youtu.be/en3gP6bp20s?si=9YsZd933GHWDbKr8",
+      "source": "https://github.com/utkarshgual7/credit_card_management"
+    },
+    {
+      "title": "Custom Billing/Invoicing System",
+      "imageSrc": "projects/project.png",
+      "description": "A bill calculator and invoicing program,its modular layout allows for the creation of various bill types.",
+      "skills": ["Python", "tkinter", "SQL"],
+      "demo": "https://utkarshgual.netlify.app/",
+      "source": "https://www.github.com/utkarshgual7"
+    },
+    {
+      "title": "Robotic Vacuum Design and Implementation",
+      "imageSrc": "projects/robot.png",
+      "description": " A robotic vacuum capable of handling basic cleaning tasks autonomously with different operational modes.",
+      "skills": ["MATLAB", "Simulink", "Stateflow"],
+      "demo": "https://matlabacademy.mathworks.com/progress/share/report.html?id=3a101a8b-e066-41ad-8a59-757c2bd601ff&",
+      "source": "https://www.github.com/utkarshgual7"
+    }
+   
+  ]
